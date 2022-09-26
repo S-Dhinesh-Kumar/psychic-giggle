@@ -1,2 +1,2 @@
 # psychic-giggle
-LoRa - Transmitter Sample Code 
+Smart- LoRa & IoT Based Data Monitoring and Transmission System 
